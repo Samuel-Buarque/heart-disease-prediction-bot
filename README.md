@@ -4,21 +4,13 @@ This project is a bot designed to predict whether a person has heart disease bas
 The Heart Disease Prediction Bot leverages machine learning algorithms to classify whether a person has heart disease. The dataset used for training and testing the model is obtained from Kaggle, ensuring the use of real and relevant data.
 
 <h2>Technologies Used</h2>
-- Python
-- Pandas
-- Seaborn
-- Matplotlib
-- scikit-learn
-  - StandardScaler
-  - MinMaxScaler
-  - train_test_split
-  - MLPClassifier
-  - classification_report
-  - accuracy_score
-  - recall_score
-  - precision_score
-- TensorFlow
-  - Keras
-    - Model
-    - Input
-    - Dense
+
+ul>
+  <li>Python</li>
+  <li>Pandas</li>
+  <li>Seaborn</li>
+  <li>scikit-learn</li>
+  <li>TensorFlow/li>
+  <li>Keras</li>
+ <li>Matplotlib</li>
+</ul>
