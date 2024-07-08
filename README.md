@@ -10,7 +10,7 @@ The Heart Disease Prediction Bot leverages machine learning algorithms to classi
   <li>Pandas</li>
   <li>Seaborn</li>
   <li>scikit-learn</li>
-  <li>TensorFlow/li>
+  <li>TensorFlow</li>
   <li>Keras</li>
  <li>Matplotlib</li>
 </ul>
