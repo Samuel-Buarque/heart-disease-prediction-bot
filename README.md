@@ -15,4 +15,5 @@ The Heart Disease Prediction Bot leverages machine learning algorithms to classi
  <li>Matplotlib</li>
 </ul>
 
-[google_colab]: (https://colab.research.google.com/github/Samuel-Buarque/Machine-_Learn_Python/blob/main/heart_disease_analise.ipynb#scrollTo=oQOcWI3WGzne)
+
+project can be acessed in [google_colab](https://colab.research.google.com/github/Samuel-Buarque/Machine-_Learn_Python/blob/main/heart_disease_analise.ipynb#scrollTo=oQOcWI3WGzne/).
